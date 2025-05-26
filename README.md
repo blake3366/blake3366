@@ -14,3 +14,64 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi, I'm Blake — A Full-Stack Engineer</h1>
+<p align="center">Statistics M.S. | Laravel / React Developer </p>
+
+---
+
+## 🚀 Tech Stack
+
+**Data / Analytics**
+- Python (pandas, numpy, seaborn, matplotlib)
+- R (ggplot2, tidyverse), Jupyter, SQL
+  
+**Backend**
+- Laravel, PHP, RESTful API, PostgreSQL, Redis, Docker
+
+**Frontend**
+- React, Redux-Saga, Material-UI, Vite, TailwindCSS
+
+**DevOps & Tools**
+- Docker, Git, GitHub Actions, Nginx, Linux, Bash, Postman
+
+**Others**
+- Excel/CSV automation, JSON data parsing, FTP file handling, Regex filtering
+
+---
+
+## 🛠️ Featured Projects
+
+### [Pricing Data Reprocessing System](https://github.com/your-repo)
+> A Laravel-based internal automation platform that ingests large-scale pricing files (JSON, Excel), handles re-mapping, validation, and FTP uploads, supporting > 1000 files/day.
+
+- Laravel + Laravel Excel + PostgreSQL
+- Error logging, background jobs, job queue via Redis
+- File versioning & rollback support
+
+### [Nested Spec Builder UI](https://github.com/your-repo)
+> A dynamic UI for editing deeply nested technical specifications with conditional rendering using React + MUI.
+
+- Recursive JSON tree traversal & validation
+- Dynamic form rendering
+- Zustand state management + modular components
+
+---
+
+## 🧠 Currently Learning
+
+- Swift & SwiftUI for iOS app development
+- System design patterns & async architecture
+- TypeScript + Next.js for frontend SSR
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shark622&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shark622&layout=compact)
+
+---
+
+## 📫 Let's Connect
+- GitHub: [@shark622](https://github.com/shark622)
+- Email: your@email.com

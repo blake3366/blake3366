@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Blake — A Full-Stack Engineer</h1>
+<h3 align="center">Hi, I'm Blake — A Full-Stack Engineer</h1>
 <p align="center">Statistics M.S. | Laravel / React Developer </p>
 
 ---
@@ -65,13 +65,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shark622&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shark622&layout=compact)
-
----
-
 ## 📫 Let's Connect
-- GitHub: [@shark622](https://github.com/shark622)
-- Email: your@email.com
+- GitHub: [@blake3366](https://github.com/blake3366)
+- Email: blakehong622@gmail.com

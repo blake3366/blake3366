@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 - Laravel, PHP, RESTful API, PostgreSQL, Redis, Docker
 
 **Frontend**
-- React, Redux-Saga, Material-UI, Vite, TailwindCSS
+- Vue, React, Redux-Saga, Material-UI, Vite, TailwindCSS
 
 **DevOps & Tools**
 - Docker, Git, GitHub Actions, Nginx, Linux, Bash, Postman
 
 **Others**
-- Excel/CSV automation, JSON data parsing, FTP file handling, Regex filtering
+- Excel/CSV automation, JSON data parsing, SFTP file handling, Regex filtering
 
 ---
 

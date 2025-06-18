@@ -26,16 +26,17 @@ Here are some ideas to get you started:
 - R (ggplot2, tidyverse), Jupyter, SQL
   
 **Backend**
-- Laravel, PHP, RESTful API, PostgreSQL, Redis, Docker
+- Laravel, PHP, RESTful API, Nest.js ,PostgreSQL, Redis, Docker
 
 **Frontend**
-- Vue, React, Redux-Saga, Material-UI, Vite, TailwindCSS
+- Vue, React, Redux-Saga, Next.js, Material-UI, Vite, TailwindCSS
 
 **DevOps & Tools**
 - Docker, Git, GitHub Actions, Nginx, Linux, Bash, Postman
 
 **Others**
 - Excel/CSV automation, JSON data parsing, SFTP file handling, Regex filtering
+- Data backup
 
 ---
 
